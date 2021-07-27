@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs,Firebase**
 
-- 👯 I’m looking to collaborate on [Vivercidad](https://github.com/GuillermoBaban/E-commerce)
+- 👯 I’m looking to collaborate in open source proyects
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuillermoBaban](https://github.com/GuillermoBaban)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillero Baban</h1>
 <h3 align="center">Im a developer from Argentina, learned to be FullStack developer</h3>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/GuillermoBaban/E-commerce)
+- 🔭 I’m currently working on React
 
 - 🌱 I’m currently learning **ReactJs,Firebase**
 

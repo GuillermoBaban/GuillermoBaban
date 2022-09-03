@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guillero Baban</h1>
 <h3 align="center">Im a developer from Argentina, learned to be FullStack developer</h3>
 
-- 🔭 I’m currently working on React
-
-- 🌱 I’m currently learning **ReactJs,Firebase**
+- 🔭 I’m currently working on Vue
 
 - 👯 I’m looking to collaborate in open source proyects
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuillermoBaban](https://github.com/GuillermoBaban)
 
-- 💬 Ask me about **Javascript, CSS or HTML**
+- 💬 Ask me about **React,NextJs,Redux ,Css, Vue **
 
 - 📫 How to reach me **guillermo.baban@hotmail.com**
 
